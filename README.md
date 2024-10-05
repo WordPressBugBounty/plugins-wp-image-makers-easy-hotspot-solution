@@ -1,0 +1,1 @@
+# plugins-wp-image-makers-easy-hotspot-solution
